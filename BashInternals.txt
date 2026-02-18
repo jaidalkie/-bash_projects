@@ -1,0 +1,2 @@
+-difference between double and single qoutes.
+with a double qoute, the string can have special characters interpreted, which add functionality to the string.
